@@ -1,6 +1,6 @@
 {
-  "name": "@nuxtjs/vuetify",
-  "version": "0.4.2",
+  "name": "@nuxtjs-millergeek/vuetify",
+  "version": "0.5.0+dev",
   "license": "MIT",
   "main": "index.js",
   "repository": "https://github.com/nuxt/modules",
