@@ -3831,9 +3831,9 @@ vue-toasted@^1.1.24:
   version "1.1.24"
   resolved "https://registry.yarnpkg.com/vue-toasted/-/vue-toasted-1.1.24.tgz#715a371dfa490cc710ffedaaeae61fd8a8c4f7ad"
 
-vuetify@^1.0.0:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-1.0.4.tgz#ef712e4ccd231d0d3678da31047d338d94e7f20d"
+vuetify@smiller171/vuetify#dev:
+  version "1.0.10"
+  resolved "https://codeload.github.com/smiller171/vuetify/tar.gz/d79f7ece3f6c87b240624949464d2abaec8629c4"
 
 wcwidth@^1.0.0:
   version "1.0.1"
