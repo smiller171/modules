@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs-millergeek/vuetify",
+  "name": "@millergeek/vuetify",
   "version": "0.5.0+dev",
   "license": "MIT",
   "main": "index.js",
